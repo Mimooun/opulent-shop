@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e00bd0ff.css",
+    "main.js": "/static/js/main.59d592d6.js",
+    "static/js/787.3fb4a724.chunk.js": "/static/js/787.3fb4a724.chunk.js",
+    "static/media/home.webp": "/static/media/home.9eef742598a96812a689.webp",
+    "static/media/iStock.webp": "/static/media/iStock.3167bf2729ecad0d23fa.webp",
+    "static/media/Hand.webp": "/static/media/Hand.7aa991ffa721549f2eef.webp",
+    "static/media/Earrings.webp": "/static/media/Earrings.6c5f891b45c3c09dcfec.webp",
+    "static/media/logo_opulent.png": "/static/media/logo_opulent.481d00ccc8ba3c18369e.png",
+    "static/media/necklaces_category.webp": "/static/media/necklaces_category.a8b3b6c9c87fc4d6bda2.webp",
+    "static/media/rings_category.webp": "/static/media/rings_category.1c0405c51c7e71919d3c.webp",
+    "static/media/bags.webp": "/static/media/bags.4882ec4b54c25f2c7f70.webp",
+    "static/media/or.webp": "/static/media/or.90b036a435e86fddb72e.webp",
+    "static/media/colis.webp": "/static/media/colis.dc0adaffbd47ff7be17f.webp",
+    "static/media/bracelet.webp": "/static/media/bracelet.6d66b5613b831974fe51.webp",
+    "index.html": "/index.html",
+    "main.e00bd0ff.css.map": "/static/css/main.e00bd0ff.css.map",
+    "main.59d592d6.js.map": "/static/js/main.59d592d6.js.map",
+    "787.3fb4a724.chunk.js.map": "/static/js/787.3fb4a724.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e00bd0ff.css",
+    "static/js/main.59d592d6.js"
+  ]
+}
